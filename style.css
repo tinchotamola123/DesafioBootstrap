@@ -18,3 +18,17 @@
 .fondoproductos p{
     font-size: 2rem;
 }
+.fotonosotros{
+    width: 400px;
+    height: 400px;
+}
+.portada-nosotros h2{
+    font-size: 40px;
+}
+.contenedor-nosotros{
+    display: flex;
+    justify-content: center;
+}
+.contenedor-nosotros img{
+    height: 700px;
+}
